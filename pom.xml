@@ -3,9 +3,9 @@
   <parent>
     <groupId>org.srm</groupId>
     <artifactId>srm-parent</artifactId>
-    <version>1.4.11.release</version>
+    <version>1.4.11.test-45</version>
   </parent>
-  <artifactId>srm-message-release</artifactId>
+  <artifactId>srm-message-test45</artifactId>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
