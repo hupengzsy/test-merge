@@ -6,7 +6,7 @@
     <version>1.4.11.release</version>
 
   </parent>
-  <artifactId>srm-message-222</artifactId>
+  <artifactId>srm-message-release</artifactId>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
