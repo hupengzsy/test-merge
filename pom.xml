@@ -4,7 +4,6 @@
     <groupId>org.srm</groupId>
     <artifactId>srm-parent</artifactId>
     <version>1.4.11.release</version>
-
   </parent>
   <artifactId>srm-message-release</artifactId>
   <properties>
