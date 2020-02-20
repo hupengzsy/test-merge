@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.srm</groupId>
     <artifactId>srm-parent</artifactId>
-    <version>1.4.11.RELEASE</version>
+    <version>1.4.11.SNAPSHOP</version>
   </parent>
   <artifactId>srm-message</artifactId>
   <properties>
