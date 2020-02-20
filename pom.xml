@@ -3,10 +3,10 @@
   <parent>
     <groupId>org.srm</groupId>
     <artifactId>srm-parent</artifactId>
-    <version>1.4.11.release</version>
+    <version>1.4.11.snapshop</version>
 
   </parent>
-  <artifactId>srm-message-222</artifactId>
+  <artifactId>srm-message-test</artifactId>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
