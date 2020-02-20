@@ -5,7 +5,7 @@
     <artifactId>srm-parent</artifactId>
     <version>1.4.11.snapshot1538</version>
   </parent>
-  <artifactId>srm-message</artifactId>
+  <artifactId>srm-message-rel</artifactId>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
