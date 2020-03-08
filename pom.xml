@@ -3,7 +3,7 @@
   <parent>
     <groupId>org.srm</groupId>
     <artifactId>srm-parent</artifactId>
-    <version>.releaseRELEASE</version>
+    <version>1.4.18.RELEASE</version>
   </parent>
   <artifactId>srm-message-rel1549</artifactId>
   <properties>
